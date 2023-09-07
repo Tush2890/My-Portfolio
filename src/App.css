@@ -114,9 +114,12 @@
 }
 
 #aboutMe,
-#mySkills,
-#myQualifications {
+#mySkills {
   height: 600px;
+}
+
+#myQualifications {
+  height: 1300px;
 }
 
 .align-center {
@@ -135,9 +138,9 @@
   color: black !important;
 }
 
-#contactMe {
+/* #contactMe {
   margin-top: 45rem;
-}
+} */
 
 footer {
   background: #aad5e3;

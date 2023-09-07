@@ -15,7 +15,7 @@ const Home = () => {
 
     const jumpToRelevantDiv = (id) => {
         const relevantDiv = document.getElementById(id);
-        const yOffset = -50;
+        const yOffset = -60;
         const y = relevantDiv.getBoundingClientRect().top + window.pageYOffset + yOffset;
         window.scrollTo({ top: y, behavior: 'smooth' });
         // relevantDiv?.scrollIntoView({ behavior: 'smooth' });
@@ -31,8 +31,11 @@ const Home = () => {
             </ul>
             <div className='padding-top-5 container'>
                 <AboutMe />
+                <hr />
                 <Skills />
+                <hr />
                 <Qualifications />
+                <hr />
                 <Contact />
             </div>
             <footer>
