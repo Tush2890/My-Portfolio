@@ -12,9 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=tush2890" alt="profileViews"/>
-  <h1>
-    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <div>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></div>
 </div>
 
 My name is Tushar Raj, a passionate self-taught full stack web developer. I have been working with the IT industry for more than 9 years now. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
