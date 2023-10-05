@@ -2,7 +2,7 @@ Hey, my name is Tushar Raj, a passionate self-taught full stack web developer. I
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/Tush2890/Tush2890/assets/39027684/a7f09797-5756-49be-a512-51470ef6e550" width="450" height="350" />
+<img align="right" alt="GIF" src="https://github.com/Tush2890/Tush2890/assets/39027684/a7f09797-5756-49be-a512-51470ef6e550" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach me at [email](mailto:tushar.raj.2890@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help
@@ -23,11 +23,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1.5 hrs    █████████████░░░░░░░░░░░░   50.11%
-JavaScript   1.2 hrs      ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-ReactJS      1.5 hr     ███████▒░░░░░░░░░░░░░░░░░   11.11 %
+TypeScript   1.5 hrs   █████████████░░░░░░░░░░░░   50.11%
+JavaScript   1.2 hrs   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+ReactJS      1.5 hr    ███████▒░░░░░░░░░░░░░░░░░   11.11 %
 NodeJS       1 hr      ███████▒░░░░░░░░░░░░░░░░░   23.89 %
-Other        30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   5 %
+Other        30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   5 %
 ```
 
 <!--END_SECTION:waka-->
