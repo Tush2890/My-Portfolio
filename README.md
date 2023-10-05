@@ -23,11 +23,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1.5 hrs   █████████████░░░░░░░░░░░░   50.11%
-JavaScript   1.2 hrs   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-ReactJS      1.5 hr    ███████▒░░░░░░░░░░░░░░░░░   11.11 %
-NodeJS       1 hr      ███████▒░░░░░░░░░░░░░░░░░   23.89 %
-Other        30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   5 %
+TypeScript   1.5hrs   █████████████░░░░░░░░░░░░   50.11%
+JavaScript   1.2hrs   ███████▒░░░░░░░░░░░░░░░░░   29.89%
+ReactJS      1.5hr    ███████▒░░░░░░░░░░░░░░░░░   11.11%
+NodeJS       1hr      ███████▒░░░░░░░░░░░░░░░░░   23.89%
+Other        30mns    ███▒░░░░░░░░░░░░░░░░░░░░░   5%
 ```
 
 <!--END_SECTION:waka-->
