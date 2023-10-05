@@ -1,1 +1,1 @@
-https://github.com/Tush2890/My-Portfolio/assets/39027684/04451d28-bc38-4fe9-bf10-5bd53d08a83d
+![Tushar Raj](https://github.com/Tush2890/My-Portfolio/assets/39027684/b626e6ba-879d-44fe-8fec-9ec8b2663394)
