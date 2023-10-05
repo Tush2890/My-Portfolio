@@ -21,8 +21,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <img align="right" alt="GIF" src="https://github.com/Tush2890/Tush2890/assets/39027684/9d81f74e-9dda-4d6a-9e2c-a69873e4f83c" width="420" height="320" />
   
-- 💼 Any freelance work? Do reach me at [email](mailto:tushar.raj.2890@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help
+- 💼 Any freelance work? Do reach me at my <a href="mailto:tushar.raj.2890@gmail.com">email</a>.
+- 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
 
