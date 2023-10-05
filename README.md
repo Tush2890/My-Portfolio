@@ -2,7 +2,7 @@ Hey, my name is Tushar Raj, a passionate self-taught full stack web developer. I
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/Tush2890/Tush2890/assets/39027684/9d81f74e-9dda-4d6a-9e2c-a69873e4f83c" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Tush2890/Tush2890/assets/39027684/9d81f74e-9dda-4d6a-9e2c-a69873e4f83c" width="430" height="320" />
   
 - 💼 Any freelance work? Do reach me at [email](mailto:tushar.raj.2890@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help
