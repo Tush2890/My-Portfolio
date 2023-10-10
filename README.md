@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=tush2890" alt="profileViews"/>
+  <img src="https://komarev.com/ghpvc/?username=collab-with-tushar-raj" alt="profileViews"/>
   <div>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></div>
 </div>
 
@@ -51,4 +51,4 @@ Other        30mns    ███▒░░░░░░░░░░░░░░░�
 
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tush2890&show_icons=true&theme=aura" alt="tusharraj_gitstats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=collab-with-tushar-raj&show_icons=true&theme=aura" alt="tusharraj_gitstats" />
