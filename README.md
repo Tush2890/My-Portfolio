@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=collab-with-tushar-raj" alt="profileViews"/>
+  <img src="https://github-views.deno.dev/api/badge/collab-with-tushar-raj" alt="profileViews"/>
   <div>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></div>
 </div>
 
